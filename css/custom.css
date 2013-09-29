@@ -1,0 +1,12 @@
+body{
+	padding-top:70px;
+}
+
+.navbar-nav>li {
+float: left;
+margin-left: 50px;
+}
+
+.bl{
+	color:#00768d;
+}
